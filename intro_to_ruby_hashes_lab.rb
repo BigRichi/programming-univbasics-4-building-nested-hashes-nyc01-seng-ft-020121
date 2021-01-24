@@ -58,7 +58,7 @@ def monopoly_with_fourth_tier
       },
     :names=> {
       :reading_railroad=> {
-        :mortgage_vlaue=> "100"
+        :mortgage_vlaue=> 100
       },
       :pennsylvania_railroad=> {
         :mortgage_vlaue=> 200
